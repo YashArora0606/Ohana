@@ -9,7 +9,7 @@ No programmer left behind! Simple real-time collaboration for whiteboarding and 
 
 Built with React on the frontend, Node.js + Express to manage rooms and client connections, and MongoDB to store whiteboard drawings. 
 
-Leveraged Pusher.js and Firebase RTDB for real-time synchronization, supporting 100+ concurrent users. 
+Leveraged Pusher.js and Firebase RTDB for real-time synchronization.
 
 ## Challenges
 - We learned about Conflict-free replicated data types (CRDTs) and Operational Transform to achieve simultaneous text editing for multiple users
